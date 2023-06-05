@@ -1,0 +1,66 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+} 
+
+.cont-logo{
+    text-align: center;
+}
+
+.logo{
+    width: 25%;
+    margin: auto;
+    
+} 
+
+h1{
+    color: #bb5397;
+    text-align: center;
+    letter-spacing: 10px;
+    font-weight: lighter;
+    font-size: xx-large;
+}
+
+h2{
+    color:  #bb5397;
+    letter-spacing: 5px;
+    font-weight: lighter;
+   
+}
+
+p{
+    color: #3d63ba;
+    font-size: small;
+}
+
+.img-century-resort-right{
+    float: right;
+}
+
+.century-resort-tamaño{
+    width: 25%;
+}
+
+.img-beach-resort-right{
+    float: left;
+}
+
+.beach-resort-tamaño{
+    width: 25%;
+}
+
+
+
+
+.lodge-right{
+    float: right;
+}
+
+.lodge-tamaño{
+    width: 25%;
+}
+
+.minnie-tamaño{
+    width: 100%;
+}
